@@ -63,18 +63,33 @@ export default function DaySchedule({
     }
 
     useEffect(() => {
-        if (isToday && prayerTimes && prayerTimes["maghrib"]) {
+        if (
+            isToday &&
+            prayerTimes &&
+            prayerTimes["maghrib"] &&
+            prayerTimes["fajr"]
+        ) {
             const targetTimeStr = prayerTimes["maghrib"];
-            // Assume maghrib time is in "HH:mm" format
             const [targetHour, targetMinute] = targetTimeStr
                 .split(":")
                 .map(Number);
             const targetTime = new Date(date);
             targetTime.setHours(targetHour, targetMinute, 0, 0);
 
+            // Compute today's fajr time
+            const fajrTimeStr = prayerTimes["fajr"];
+            const [fajrHour, fajrMinute] = fajrTimeStr.split(":").map(Number);
+            const todayFajr = new Date(date);
+            todayFajr.setHours(fajrHour, fajrMinute, 0, 0);
+
             function updateCountdown() {
-                const diff = targetTime.getTime() - new Date().getTime();
-                setTimeLeft(diff);
+                const now = new Date();
+                if (now > todayFajr && now < targetTime) {
+                    const diff = targetTime.getTime() - now.getTime();
+                    setTimeLeft(diff);
+                } else {
+                    setTimeLeft(0);
+                }
             }
             updateCountdown();
             const intervalId = setInterval(updateCountdown, 1000);
@@ -147,10 +162,10 @@ export default function DaySchedule({
                 {", "}
                 {hijriDate}
             </p>
-            {/* Dynamic Countdown Section for Maghrib */}
+            {/* Updated Countdown for Maghrib: only shows between Fajr and Maghrib */}
             {isToday && timeLeft > 0 && (
                 <p className="text-xs text-blue-500 mt-2">
-                    Time until Iftaar:{" "}
+                    Time until Maghrib:{" "}
                     {timeLeft < 60000
                         ? `${Math.floor(timeLeft / 1000)}s`
                         : `${Math.floor(timeLeft / 3600000)}h ${Math.floor(
@@ -158,7 +173,7 @@ export default function DaySchedule({
                           )}m`}
                 </p>
             )}
-            {/* New: Countdown for Suhoor */}
+            {/* Countdown for Suhoor */}
             {isToday && suhoorTimeLeft > 0 && (
                 <p className="text-xs text-purple-500 mt-2">
                     Time until Fajr:{" "}
