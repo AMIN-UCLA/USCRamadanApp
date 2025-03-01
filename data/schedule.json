@@ -8,7 +8,7 @@
     },
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Pauley Pavillion SE",
       "details": ""
     }
@@ -23,7 +23,7 @@
     },
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Covel North Ridge",
       "details": ""
     }
@@ -31,7 +31,7 @@
   "2025-03-02": [
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Pauley Pavillion SE",
       "details": ""
     }
@@ -45,7 +45,7 @@
     },
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Drake Upper Concourse",
       "details": ""
     }
@@ -59,7 +59,7 @@
     },
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Drake Upper Concourse",
       "details": ""
     }
@@ -73,7 +73,7 @@
     },
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Pauley Pavillion SE",
       "details": ""
     }
@@ -87,7 +87,7 @@
     },
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Drake Upper Concourse",
       "details": ""
     }
@@ -101,7 +101,7 @@
     },
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Covel North Ridge",
       "details": ""
     }
@@ -109,7 +109,7 @@
   "2025-03-08": [
     {
       "type": "taraweeh",
-      "time": "7PM",
+      "time": "7:45PM",
       "location": "Covel North Ridge",
       "details": ""
     }
