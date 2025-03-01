@@ -133,7 +133,7 @@ export default function Home() {
                                     el: ".swiper-pagination-bottom",
                                 }}
                                 modules={[Pagination]}
-                                className="mb-4" // reduced bottom margin for minimal gap
+                                className="mb-4"
                             >
                                 {days.map((day, index) => (
                                     <SwiperSlide key={index}>
@@ -179,7 +179,6 @@ export default function Home() {
                             ))}
                         </div>
                     ))}
-                {/* New Date Picker Section at Bottom */}
                 <div className="mt-8 flex flex-col items-center">
                     <p className="mb-2 text-sm text-gray-700">
                         Select date for preview:
