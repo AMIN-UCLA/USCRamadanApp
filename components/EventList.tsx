@@ -14,6 +14,7 @@ interface Event {
     details?: string;
     name?: string;
     organization?: string;
+    link?: string;
 }
 
 export default function EventList({ date }: EventListProps) {
@@ -69,6 +70,14 @@ export default function EventList({ date }: EventListProps) {
                                         Details:
                                     </span>{" "}
                                     {event.details}
+                                </div>
+                            )}
+                            {event.link && (
+                                <div>
+                                    <span className="inline-block w-20">
+                                        Register:
+                                    </span>{" "}
+                                    <a href={event.link} > Register here </a>
                                 </div>
                             )}
                             {event.type === "other" && (
