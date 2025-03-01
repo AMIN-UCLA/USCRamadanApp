@@ -7,7 +7,7 @@ export default function Header() {
                 {/* Islamic-inspired crescent icon */}
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    className="h-6 w-6 text-blue-500"
+                    className="h-6 w-6 text-red-500"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
@@ -23,7 +23,7 @@ export default function Header() {
                     href="/"
                     className="text-xl md:text-2xl font-bold text-center"
                 >
-                    UCLA MSA Ramadan Schedule
+                    USC MSU Ramadan Schedule
                 </Link>
             </div>
             <div className="container mx-auto flex justify-center">
