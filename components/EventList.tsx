@@ -75,9 +75,9 @@ export default function EventList({ date }: EventListProps) {
                             {event.link && (
                                 <div>
                                     <span className="inline-block w-20">
-                                        Register:
+                                        Register Here:
                                     </span>{" "}
-                                    <a href={event.link} > Register here </a>
+                                    <a href={event.link} className="text-xs text-blue-500 mt-2"> link </a>
                                 </div>
                             )}
                             {event.type === "other" && (
