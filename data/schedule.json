@@ -223,7 +223,7 @@
     {
       "type": "taraweeh",
       "time": "7:45PM",
-      "location": "Covel North Ridge",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
@@ -239,16 +239,48 @@
     {
       "type": "taraweeh",
       "time": "8:45PM",
-      "location": "Covel North Ridge",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
   "2025-03-10": [
     {
+      "type": "other",
+      "time": "4:00PM",
+      "location": "Imam's Office URC",
+      "link": "https://lu.ma/w89p5yh6",
+      "name": "Hotboxing with Shaykh (Open Office Hours)",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "5:30PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/412kj5xp",
+      "name": "Sisters Quran Recitation",
+      "organization": "USC MSU"
+    },
+     {
+      "type": "other",
+      "time": "5:30PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/4tcdcq3z",
+      "name": "Brothers Halaqa",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "10:30PM",
+      "location": "(register for location)",
+      "link": "https://lu.ma/umga8lop",
+      "name": "Sisters Soccer",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Pauley",
-      "details": "Simpang Asia + Magnolia Bakery"
+      "location": "University Religious Center",
+      "details": ""
     },
     {
       "type": "taraweeh",
@@ -259,57 +291,137 @@
   ],
   "2025-03-11": [
     {
+      "type": "other",
+      "time": "2:00PM",
+      "location": "Imam's Office URC",
+      "link": "https://lu.ma/xw8fcq4s",
+      "name": "Imam Muzzammil Quran Class",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "5:30PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/cdjvswzn",
+      "name": "Sisters Halaqa",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "5:30PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/0dxvt67m",
+      "name": "Brothers Recitation Class",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Pauley",
-      "details": "Al-Watan"
+      "location": "University Religious Center",
+      "details": ""
     },
     {
       "type": "taraweeh",
       "time": "8:45PM",
-      "location": "Pauley Pavillion",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
   "2025-03-12": [
     {
+      "type": "other",
+      "time": "5:15PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/58z00my4",
+      "name": "Brothers Kahf Tafsir",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "5:15PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/xxmy4pgd",
+      "name": "Sisters Halaqa (circle)",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "7:30PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/4wv2k2xi",
+      "name": "Sisters Ramadan Rendezvous",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Pauley",
-      "details": "Banadir Somali restaurant"
+      "location": "Univeristy Religious Center",
+      "details": ""
     },
     {
       "type": "taraweeh",
       "time": "8:45PM",
-      "location": "Pauley Pavillion",
+      "location": "Univeristy Religious Center",
       "details": ""
     }
   ],
   "2025-03-13": [
     {
+      "type": "other",
+      "time": "7:30PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/sqiocde3",
+      "name": "Joint Halaqa with Sheikh Umer",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "10:30PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/6erf2ah0",
+      "name": "Sisters Soccer night",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "11:00PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/kocntt7y",
+      "name": "Sisters Post Taraweeh Reflection + Qiyam",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Pauley",
-      "details": "Fresh Corn Grill"
+      "location": "University Religious center",
+      "details": ""
     },
     {
       "type": "taraweeh",
       "time": "8:45PM",
-      "location": "Pauley Pavillion",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
   "2025-03-14": [
     {
+      "type": "other",
+      "time": "11:00PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/bb0bk53z",
+      "name": "Brothers Basketball Night",
+      "organization": "USC MSU"
+    },
+    {
       "type": "Jumaa",
       "time": "1:15PM",
-      "location": "John Wooden Pyramid Room",
+      "location": "University Religious Center",
       "details": ""
     },
     {
       "type": "taraweeh",
       "time": "8:45PM",
-      "location": "Pauley Pavillion",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
@@ -317,7 +429,7 @@
     {
       "type": "taraweeh",
       "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
@@ -325,7 +437,7 @@
     {
       "type": "taraweeh",
       "time": "8:45PM",
-      "location": "Pauley Pavillion",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
