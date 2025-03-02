@@ -15,14 +15,6 @@
   ],
   "2025-03-01": [
     {
-      "type": "other",
-      "time": "4AM",
-      "location": "The Kettle",
-      "link": "https://lu.ma/s57vxf3g",
-      "name": "Brother's Suhoor Run",
-      "organization": "MSA"
-    },
-    {
       "type": "taraweeh",
       "time": "7:45PM",
       "location": "Covel North Ridge",
@@ -31,46 +23,118 @@
   ],
   "2025-03-02": [
     {
+      "type": "other",
+      "time": "12:30PM",
+      "location": "2043 Imperial St",
+      "link": "https://lu.ma/tx5e4joi",
+      "name": "Islamic Relief Meal Pack",
+      "organization": "USC MSU x Islamic Relief"
+    },
+    {
       "type": "taraweeh",
       "time": "7:45PM",
-      "location": "Pauley Pavillion SE",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
   "2025-03-03": [
     {
+      "type": "other",
+      "time": "4:15PM",
+      "location": "University Relgious Center",
+      "link": "https://lu.ma/mfremdcs",
+      "name": "Brothers Halaqa",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "4:30PM",
+      "location": "University Relgious Center",
+      "link": "https://lu.ma/nfivfnzh",
+      "name": "Tajweed Class",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "9:30PM",
+      "location": "University Relgious Center",
+      "link": "https://lu.ma/zgan4389",
+      "name": "Sisters Quran Circle",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "10:30PM",
+      "location": "(register)",
+      "link": "https://lu.ma/my9hhgxv",
+      "name": "Sisters Soccer",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Drake",
-      "details": "New York Chicken & Gyro"
+      "location": "University Religious Center",
+      "details": ""
     },
     {
       "type": "taraweeh",
       "time": "7:45PM",
-      "location": "Drake Upper Concourse",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
   "2025-03-04": [
     {
+      "type": "other",
+      "time": "2:00PM",
+      "location": "University Relgious Center",
+      "link": "https://lu.ma/lg6am17m",
+      "name": "Imam Muzzammil Quran Class",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "4:15PM",
+      "location": "University Relgious Center",
+      "link": "https://lu.ma/78376glv",
+      "name": "Sisters Halaqa",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Drake",
-      "details": "New India's Oven"
+      "location": "University Relgious Center",
+      "details": ""
     },
     {
       "type": "taraweeh",
       "time": "7:45PM",
-      "location": "Drake Upper Concourse",
+      "location": "University Relgious Center",
       "details": ""
     }
   ],
   "2025-03-05": [
     {
+      "type": "other",
+      "time": "4:30PM",
+      "location": "University Relgious Center",
+      "link": "https://lu.ma/h70opsbh",
+      "name": "Sisters Guest Halaqa",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "7:20PM",
+      "location": "It's Boba Time",
+      "link": "https://lu.ma/txq0bbxg",
+      "name": "Sisters Rendevouz",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Drake",
-      "details": "House of Mandi"
+      "location": "University Religious Center",
+      "details": ""
     },
     {
       "type": "taraweeh",
@@ -81,15 +145,31 @@
   ],
   "2025-03-06": [
     {
+      "type": "other",
+      "time": "4:15PM",
+      "location": "University Relgious Center",
+      "link": "https://lu.ma/3wua38d3",
+      "name": "Joint Halaqa with Abdurahman Muhammad",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "10:30PM",
+      "location": "(register)",
+      "link": "https://lu.ma/uvuwxezp",
+      "name": "Sisters Soccer",
+      "organization": "USC MSU"
+    },
+    {
       "type": "iftaar",
       "time": "",
-      "location": "Drake",
-      "details": "Shamshiri"
+      "location": "University Religious Center",
+      "details": ""
     },
     {
       "type": "taraweeh",
       "time": "7:45PM",
-      "location": "Drake Upper Concourse",
+      "location": "University Religious Center",
       "details": ""
     }
   ],
