@@ -175,15 +175,47 @@
   ],
   "2025-03-07": [
     {
+      "type": "other",
+      "time": "1:45AM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/o38g146j",
+      "name": "Sisters Qiyam/Tafsir + Suhoor",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "3:00AM",
+      "location": "Manhattan Beach",
+      "link": "https://lu.ma/xyak5weu",
+      "name": "Brothers Suhoor and Beach",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "5:00PM",
+      "location": "Islamic Center of Southern California",
+      "link": "https://lu.ma/gelcfelu",
+      "name": "USC x UCLA x ICSC Iftar",
+      "organization": "USC MSU"
+    },
+    {
+      "type": "other",
+      "time": "7:45PM",
+      "location": "University Religious Center",
+      "link": "https://lu.ma/3d0uek46",
+      "name": "Brothers Ping Pong",
+      "organization": "USC MSU"
+    },
+    {
       "type": "Jumaa",
-      "time": "1:15PM",
-      "location": "John Wooden Pyramid Room",
+      "time": "1:00PM",
+      "location": "Masjid Omar",
       "details": ""
     },
     {
       "type": "taraweeh",
       "time": "7:45PM",
-      "location": "Covel North Ridge",
+      "location": "Univeristy Religious Center",
       "details": ""
     }
   ],
@@ -196,6 +228,14 @@
     }
   ],
   "2025-03-09": [
+    {
+      "type": "other",
+      "time": "10:30AM",
+      "location": "Islamic Center of SoCal",
+      "link": "https://lu.ma/pfvlf8xj",
+      "name": "ICSC Sunday Volunteering",
+      "organization": "USC MSU"
+    },
     {
       "type": "taraweeh",
       "time": "8:45PM",
